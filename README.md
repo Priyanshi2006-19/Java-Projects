@@ -1,2 +1,1 @@
-# Java-Projects
-This respository contain java projects that i create as a part of my academics
+# Java programs uploaded here are those which  I write as a part my academics in Bachelor's of Computer Applications 3 semester . I am a beginner in Java programming just started writing these program . These programs contain solutions of some basic java programs
