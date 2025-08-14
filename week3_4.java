@@ -1,6 +1,4 @@
 //average of numbers
-package week3;
-
 public class week3_4 {
     public static void main(String [] args){
     double a=24;
@@ -10,3 +8,4 @@ public class week3_4 {
         System.out.println("Average of number is "+avg);
     }
 }
+
