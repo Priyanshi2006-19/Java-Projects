@@ -1,6 +1,4 @@
 // distance of two numbers
-package week3;
-
 public class week3_5 {
     public static void main(String [] args){
     double x1 =89;
@@ -14,3 +12,4 @@ public class week3_5 {
     
     }
 }
+
