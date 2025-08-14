@@ -1,7 +1,4 @@
-
-package week3;
-
-
+// multiplication of two numbers
 public class week3_2 {
    public static void main(String [] args) {
    double a=14.3;
@@ -10,3 +7,4 @@ public class week3_2 {
        System.out.println("Multiplication of number is "+multiply);
    }
 }
+
